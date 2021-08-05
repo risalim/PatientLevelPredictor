@@ -7,8 +7,6 @@ Google Drive Link for the following: https://drive.google.com/drive/folders/1nR_
 
 - amie
 - annotate
-- CLAMP
-- CLAMP_RxNorm
 - clinicalnlp-ade-master
 - data
 - DRUM-master
