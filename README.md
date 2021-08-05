@@ -4,10 +4,15 @@ Adverse drug events (ADEs) are unwanted and dangerous side effects to medical tr
 
 Google Drive Link: https://drive.google.com/drive/folders/1nR_Y6Ht-v--aPGzwCj4cB65HM7xINgeQ?usp=sharing
 
+- amie
 - annotate
 - CLAMP
 - CLAMP_RxNorm
+- clinicalnlp-ade-master
 - data
+- DRUM-master
+- Jupyter Notebooks
 - MIMIC
 - MIMIC_data
+- models
 - N2C2
